@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <h3>A developer from Sweden</h3>
 
 
-- 🌱 I’m currently learning Python
-- 🔭 I’m currently working on various small projects and ideas
-- 📫 How to reach me **tomas.lehtela@gmail.com**
+- 🌱 I’m currently focusing on OOP in Python
+- 🔭 I’m currently working on various projects and ideas (see my repos)
+- ⚡ I'm also in the process of learning more about GitHub
+- 📫 Any questions/collab? Please, hit me up! **tomas.lehtela@gmail.com**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
