@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diztirub1&label=Profile%20views&color=0e75b6&style=flat" alt="diztirub1" /> </p>
+
 
 <h1>Hi 👋, I'm Tomas!</h1>
 <h3>A developer from Sweden</h3>
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/diztirub1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diztirub1" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/diztirub1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diztirub1" /></a></p><br><br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diztirub1&label=Profile%20views&color=0e75b6&style=flat" alt="diztirub1" /> </p>
 
